@@ -18,7 +18,7 @@ export const COMPANY_INFO = {
   phoneRaw: "+17579607569",
   address: "513 19th St ste 110, Virginia Beach, VA 23451, United States",
   mapShortUrl: "https://maps.app.goo.gl/YeKuZGpH8nnu67dy9",
-  mapEmbedUrl: "https://maps.google.com/maps?q=513+19th+St+ste+110,+Virginia+Beach,+VA+23451&t=&z=15&ie=UTF8&iwloc=&output=embed",
+  mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3820.592074212075!2d-75.9835740241595!3d36.84644227223403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89bae903d9c48b77%3A0xa3b316551aa5fd27!2sTidewater%20SR22%20Insurance%20Virginia%20Beach!5e1!3m2!1sen!2sph!4v1790605596451!5m2!1sen!2sph",
 };
 
 export const SEO_PAGES: PageData[] = [

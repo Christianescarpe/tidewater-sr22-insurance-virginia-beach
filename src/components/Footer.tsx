@@ -145,13 +145,14 @@ export default function Footer() {
             <div className="w-full h-52 rounded-lg overflow-hidden border border-forest-700 shadow-inner bg-forest-800">
               <iframe
                 title="Tidewater SR22 Insurance Virginia Beach Office Location"
-                src={COMPANY_INFO.mapEmbedUrl}
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3820.592074212075!2d-75.9835740241595!3d36.84644227223403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89bae903d9c48b77%3A0xa3b316551aa5fd27!2sTidewater%20SR22%20Insurance%20Virginia%20Beach!5e1!3m2!1sen!2sph!4v1790605596451!5m2!1sen!2sph"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
+                allowFullScreen
                 loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-                className="w-full h-full grayscale-[25%] contrast-110"
+                referrerPolicy="strict-origin-when-cross-origin"
+                className="w-full h-full"
               />
             </div>
             <p className="text-xs text-sand-400 flex items-center justify-between">
